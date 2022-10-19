@@ -12,7 +12,9 @@
 /last edit - October 2022/
 
 Hi, I am Miguel. This is my Gitlab Profile.
+
 Here you can find about my previous works and the projects I am involved.
+
 For more information about me please check my [[https://marp.rocks/][website]].
 
 #+BEGIN_SRC
