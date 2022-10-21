@@ -54,6 +54,8 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 
 ## Email Templates
 
+_WIP_
+
 ## Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _~2014_
 
 <img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>
@@ -63,6 +65,8 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 This Project was about implementing a new web design for [imparcialoaxaca.mx](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/). It was done in a custom framework, bootstrap and Sass.
 
 ## Drupal
+
+_WIP_
 
 ### 'a real good cause' design implementation &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _~2013_
 
@@ -79,6 +83,14 @@ This Project was about implementing a web design for [arealgoodcause.com](https:
 `PHP 5`, `Drupal 7`, `HTML 5`, `CSS 3`, `Javascript`
 
 This was the first [personal website](https://web.archive.org/web/20130409073648/http://mechdeveloper.com/) and blog I develop for the portfolio. By that time I was a freelancer already. (I am very bad at choosing names).
+
+## Blender
+
+_WIP_
+
+## Godot
+
+_WIP_
 
 ## College Thesis (Legacy) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; _~2010_
 
