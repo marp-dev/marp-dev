@@ -39,6 +39,8 @@ These code samples are part of the React Redux course of Stephen Grider on Udemy
 
 ## Care Community Calendars
 
+![calendar_app preview video](https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/videos/calendar_app_short.avif)
+
 _HTML5_, _CSS3_, _Vue_, _Vuex_, _Supabase_, _PostgresSQL_
 
 This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
