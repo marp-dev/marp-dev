@@ -15,9 +15,9 @@ Hi, I am Miguel. This is my Gitlab Profile.
 
 Here you can find about my previous works and the projects I am involved.
 
-! Please keep in mind this is just a set of projects that do not represent the my whole career as I have signed a lot of NDAs. There are things I can not show and others I should ask permission for.
+**! Please keep in mind this is just a set of projects that do not represent the my whole career as I have signed a lot of NDAs. There are things I can not show and others I should ask permission for.**
 
-**For more information about me please check my [website](https://marp.rocks/)**.
+#### **For more information about me please check my [website](https://marp.rocks/)**.
 
 ```
 
