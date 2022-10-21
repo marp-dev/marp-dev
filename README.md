@@ -51,7 +51,7 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 
 <img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>
 
-_HTML5_, _CSS3_, _SASS_, _Bootstrap 3_, __
+_HTML5_, _CSS3_, _SASS_, _Bootstrap 3_, _Javascript_
 
 This Project was about implementing a new web design for [imparcialoaxaca.mx](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/). It was done in a custom framework, bootstrap and Sass.
 
@@ -61,7 +61,7 @@ This Project was about implementing a new web design for [imparcialoaxaca.mx](ht
 
 <img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/arealgoodcause.png" alt="calendar_app" width="350"/>
 
-_HTML5_, _CSS3_, _Drupal 7_
+_HTML5_, _CSS3_, _Drupal 7_, _Javascript_
 
 This Project was about implementing a web design for [arealgoodcause.com](https://web.archive.org/web/20131128071802/http://arealgoodcause.com/). It was one of the earliest Drupal project I worked on.
 
