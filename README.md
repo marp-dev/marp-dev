@@ -27,11 +27,15 @@ For more information about me please check my [website](https://marp.rocks/).
 
 ## Vue (Group)
 
+<a href="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="calendar_app" height="150"/></a>
+
 `HTML5`, `CSS3`, `Vue`, `Vuex`, `Javascript (ES6)`
 
 These [projects & code samples](https://gitlab.com/marp_vue) are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/) Some repos contents a section of the course.
 
 ## React & Redux (Group)
+
+<a href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="calendar_app" height="150"/></a>
 
 `HTML5`, `CSS3`, `React`, `Redux`, `Javascript (ES6)`
 
