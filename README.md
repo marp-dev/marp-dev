@@ -37,6 +37,7 @@ These are a collection of my repos with practices & project samples
 ### Vue (Group) &nbsp;&nbsp;&nbsp; _2020_
 
 <a href="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="calendar_app" height="150"/></a>
+
 _[logo attribution link](https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg)_
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Javascript (ES6)`
@@ -46,6 +47,7 @@ These [projects & code samples](https://gitlab.com/marp_vue) contains some proje
 ### React & Redux (Group) &nbsp;&nbsp;&nbsp; _2019_
 
 <a href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="calendar_app" height="150"/></a>
+
 _[logo attribution link](https://commons.wikimedia.org/wiki/File:React-icon.svg)_
 
 `HTML 5`, `CSS 3`, `React`, `Redux`, `Javascript (ES6)`
