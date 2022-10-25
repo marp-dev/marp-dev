@@ -34,7 +34,7 @@ Here you can find about my previous works and the projects I am involved.
 
 These are a collection of my repos with practices & project samples
 
-### Vue (Group) &nbsp;&nbsp;&nbsp; _2020_
+### Vue (Group)
 
 <a href="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="calendar_app" height="150"/></a>
 
@@ -44,7 +44,7 @@ _[logo attribution link](https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.s
 
 These [projects & code samples](https://gitlab.com/marp_vue) contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
 
-### React & Redux (Group) &nbsp;&nbsp;&nbsp; _2019_
+### React & Redux (Group)
 
 <a href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="calendar_app" height="150"/></a>
 
