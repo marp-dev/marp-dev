@@ -56,11 +56,15 @@ These [projects & code samples](https://gitlab.com/react-redux-marp) contains so
 
 ### Blender
 
-_WIP_
+`Blender 2.7`, `Blender +2.8`
+
+I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/)). I do not have an artist level 'per se' but I can manage to use blender to make some models. There is a repo available [here](https://gitlab.com/marp-dev/marp-blender-sample) 
 
 ### Godot
 
-_WIP_
+`Godot 3.0`, `Godot 3.1`
+
+I have experience in Game development. Regarding Godot in particular I have been using it since version 3. There is a group available with repos [here](https://gitlab.com/marp-game-dev)
 
 ## Previous Works
 
@@ -82,7 +86,7 @@ This Project was about implementing a new web design for [imparcialoaxaca.mx](ht
 
 ### Drupal
 
-_WIP_
+The first years as a freelancer for me were mostly Drupal development. I used to make themes, manage panels, views and blocks, managed modules and creating some of my own.
 
 #### 'a real good cause' design implementation &nbsp;&nbsp;&nbsp; _2013_
 
