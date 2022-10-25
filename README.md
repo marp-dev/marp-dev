@@ -72,10 +72,6 @@ _WIP_
 
 This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
 
-### Email Templates
-
-_WIP_
-
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
 <img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>
