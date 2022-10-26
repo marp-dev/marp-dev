@@ -36,21 +36,25 @@ These are a collection of my repos with practices & project samples
 
 ### Vue (Group)
 
-<a href="https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="calendar_app" height="150"/></a>
+<a href="https://gitlab.com/marp_vue"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="calendar_app" height="150"/></a>
 
 _[logo attribution link](https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg)_
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Javascript (ES6)`
 
+> There is a group available [here](https://gitlab.com/marp_vue)
+
 These [projects & code samples](https://gitlab.com/marp_vue) contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
 
 ### React & Redux (Group)
 
-<a href="https://commons.wikimedia.org/wiki/File:React-icon.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="calendar_app" height="150"/></a>
+<a href="https://gitlab.com/react-redux-marp"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="calendar_app" height="150"/></a>
 
 _[logo attribution link](https://commons.wikimedia.org/wiki/File:React-icon.svg)_
 
 `HTML 5`, `CSS 3`, `React`, `Redux`, `Javascript (ES6)`
+
+> There is a group available [here](https://gitlab.com/react-redux-marp)
 
 These [projects & code samples](https://gitlab.com/react-redux-marp) contains some projects of my own and the practices that  are part of [the React Redux course of Stephen Grider on Udemy](https://www.udemy.com/course/react-redux/).
 
@@ -58,13 +62,17 @@ These [projects & code samples](https://gitlab.com/react-redux-marp) contains so
 
 `Blender 2.7`, `Blender +2.8`
 
-I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/)). I do not have an artist level 'per se' but I can manage to use blender to make some models. There is a repo available [here](https://gitlab.com/marp-dev/marp-blender-sample) 
+> There is a repo available [here](https://gitlab.com/marp-dev/marp-blender-sample) 
+
+I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/)). I do not have an artist level 'per se' but I can manage to use blender to make some models.
 
 ### Godot
 
 `Godot 3.0`, `Godot 3.1`
 
-I have experience in Game development. Regarding Godot in particular I have been using it since version 3. There is a group available with repos [here](https://gitlab.com/marp-game-dev)
+> There is a group available [here](https://gitlab.com/marp-game-dev)
+
+I have experience in Game development. Regarding Godot in particular I have been using it since version 3.
 
 ## Previous Works
 
@@ -82,6 +90,8 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 
 `HTML 5`, `CSS 3`, `SASS`, `Bootstrap 3`, `Javascript`, `PHP 7`
 
+> You can check the (archived) website [here](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/)
+
 This Project was about implementing a new web design for [imparcialoaxaca.mx](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/). It was done in a custom framework, bootstrap and Sass.
 
 ### Drupal
@@ -94,6 +104,8 @@ The first years as a freelancer for me were mostly Drupal development. I used to
 
 `HTML 5`, `CSS 3`, `Drupal 7`, `PHP 5`, `Javascript`
 
+> You can check the (archived) website [here](https://web.archive.org/web/20131128071802/http://arealgoodcause.com/) 
+
 This Project was about implementing a web design for [arealgoodcause.com](https://web.archive.org/web/20131128071802/http://arealgoodcause.com/). It was one of the earliest Drupal project I worked on.
 
 #### First personal website (mechdeveloper.com) &nbsp;&nbsp;&nbsp; _2012_
@@ -101,6 +113,8 @@ This Project was about implementing a web design for [arealgoodcause.com](https:
 <img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/first_website.png" alt="calendar_app" width="350"/>
 
 `PHP 5`, `Drupal 7`, `HTML 5`, `CSS 3`, `Javascript`
+
+> You can check the (archived) website [here](https://web.archive.org/web/20130409073648/http://mechdeveloper.com/)
 
 This was the first [personal website](https://web.archive.org/web/20130409073648/http://mechdeveloper.com/) and blog I develop for the portfolio. By that time I was a freelancer already. (I am very bad at choosing names).
 
@@ -113,8 +127,6 @@ This section is about the projects I was involved in the first years of my caree
 `HTML 4`, `CSS 2`, `PHP 5`, `MySQL`, `AJAX`, `jQuery`, `VTiger`, `Smarty templates`, `CRP`, `Amadeus`, `Ubuntu`
 
 These were a set of projects related to each other; First, there was the CRP based on VTiger that we had to maintain and extend with many features oriented for the travel industry. Second, there was the Customer Portal. Partially provided by VTiger and heavily modified.
-
-For more information you can read more ... _WIP_
 
 ### College Thesis (Legacy) &nbsp;&nbsp;&nbsp; _2010_
 
