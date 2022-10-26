@@ -11,7 +11,7 @@
 
 _last edit - October 2022_
 
-Hi, I am Miguel. This is my Gitlab Profile.
+Hi, I am Miguel. This is my Git*** Profile.
 
 Here you can find about my previous works and the projects I am involved.
 
