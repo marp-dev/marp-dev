@@ -58,6 +58,10 @@ These [projects & code samples](https://gitlab.com/react-redux-marp) contains so
 
 ### Blender
 
+<a href="https://gitlab.com/marp-dev/marp-blender-sample"><img src="https://download.blender.org/branding/blender_logo.png" alt="calendar_app" width="350"/></a>
+
+_[logo attribution link](https://www.blender.org/)_
+
 `Blender 2.7`, `Blender +2.8`
 
 **There is a repo available [here](https://gitlab.com/marp-dev/marp-blender-sample)**
@@ -65,6 +69,10 @@ These [projects & code samples](https://gitlab.com/react-redux-marp) contains so
 I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/)). I do not have an artist level 'per se' but I can manage to use blender to make some models.
 
 ### Godot
+
+<a href="https://gitlab.com/marp-game-dev"><img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="calendar_app" width="350"/></a>
+
+_[logo attribution link](https://godotengine.org/)_
 
 `Godot 3.0`, `Godot 3.1`
 
