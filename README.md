@@ -28,8 +28,6 @@ Here you can find about my skill tests results, previous works and the projects 
 
 **! Please keep in mind this is just a set of projects that do not represent the my whole career as I have signed a lot of NDAs. There are things I can not show and others I should ask permission for.**
 
-[[_TOC_]]
-
 ## My Repos
 
 These are a collection of my repos with practices & project samples
