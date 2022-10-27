@@ -76,7 +76,7 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 ### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
-<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>
+<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
