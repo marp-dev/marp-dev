@@ -34,7 +34,7 @@ These are a collection of my repos with practices & project samples
 
 ### Vue (Group)
 
-<a href="https://gitlab.com/marp_vue"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="calendar_app" height="150"/></a>
+<a href="https://gitlab.com/marp_vue"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="150"/></a>
 
 _[logo attribution link](https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg)_
 
@@ -46,7 +46,7 @@ These [projects & code samples](https://gitlab.com/marp_vue) contains some proje
 
 ### React & Redux (Group)
 
-<a href="https://gitlab.com/react-redux-marp"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="calendar_app" height="150"/></a>
+<a href="https://gitlab.com/react-redux-marp"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="150"/></a>
 
 _[logo attribution link](https://commons.wikimedia.org/wiki/File:React-icon.svg)_
 
@@ -58,7 +58,7 @@ These [projects & code samples](https://gitlab.com/react-redux-marp) contains so
 
 ### Blender
 
-<a href="https://gitlab.com/marp-dev/marp-blender-sample"><img src="https://download.blender.org/branding/blender_logo.png" alt="calendar_app" width="350"/></a>
+<a href="https://gitlab.com/marp-dev/marp-blender-sample"><img src="https://download.blender.org/branding/blender_logo.png" alt="blender.org" width="350"/></a>
 
 _[logo attribution link](https://www.blender.org/)_
 
@@ -70,7 +70,7 @@ I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/))
 
 ### Godot
 
-<a href="https://gitlab.com/marp-game-dev"><img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="calendar_app" width="350"/></a>
+<a href="https://gitlab.com/marp-game-dev"><img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="godot" width="350"/></a>
 
 _[logo attribution link](https://godotengine.org/)_
 
