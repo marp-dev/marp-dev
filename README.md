@@ -96,7 +96,7 @@ Check the dedicated page for more details [here](calendar_app.md)
 
 This Project was about implementing a new web design for [imparcialoaxaca.mx](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/). It was done in a custom framework, bootstrap and Sass.
 
-Check the dedicated page for more details [here](imparcialoaxaca.md)
+Check the dedicated page for more details [here](Imparcialoaxaca.md)
 
 ### Drupal
 
