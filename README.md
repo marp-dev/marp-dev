@@ -13,9 +13,7 @@ _last edit - October 2022_
 
 Hi, I am Miguel. This is my Git*** Profile.
 
-Here you can find about my previous works and the projects I am involved.
-
-**! Please keep in mind this is just a set of projects that do not represent the my whole career as I have signed a lot of NDAs. There are things I can not show and others I should ask permission for.**
+Here you can find about my skill tests results, previous works and the projects I am involved.
 
 > **For more information about me please check my [website](https://marp.rocks/)**.
 
@@ -27,6 +25,8 @@ Here you can find about my previous works and the projects I am involved.
 
 
 ```
+
+**! Please keep in mind this is just a set of projects that do not represent the my whole career as I have signed a lot of NDAs. There are things I can not show and others I should ask permission for.**
 
 [[_TOC_]]
 
@@ -139,4 +139,17 @@ This project was part of the college thesis for my graduation. It was integrated
 ### SABRE api &nbsp;&nbsp;&nbsp; _~2013_
 
 _WIP_
+
+```
+
+▄▄▄▄ ▄  ▄ ▄ ▄    ▄    ▄▄▄▄                                 < Skills >
+█▄▄▄ █▄▀  █ █    █    █▄▄▄
+▄▄▄█ █ ▀▄ █ █▄▄▄ █▄▄▄ ▄▄▄█                                 Skills tests results
+
+
+```
+
+**! I may know a lot more things that are mentioned here. Only skills with test results are being shown**
+
+Frontend = [triplebyte: proficient](https://triplebyte.com/tb/miguel-angel-rodriguez-perez-wg7j0ul/certificate)
 
