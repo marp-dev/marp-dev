@@ -1,6 +1,6 @@
 ## Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
-![](./assets/videos/calendar-app.webm)
+![](https://raw.githubusercontent.com/marp-dev/marp-dev/github/assets/videos/calendar-app.webm)
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
