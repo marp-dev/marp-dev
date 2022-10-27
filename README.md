@@ -80,7 +80,11 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
+**unfortunately the app is not available publicly**
+
 This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
+
+Check the dedicated page for more details [here](calendar_app.md)
 
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
@@ -91,6 +95,8 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 **You can check the (archived) website [here](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/)**
 
 This Project was about implementing a new web design for [imparcialoaxaca.mx](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/). It was done in a custom framework, bootstrap and Sass.
+
+Check the dedicated page for more details [here](imparcialoaxaca.md)
 
 ### Drupal
 
@@ -106,6 +112,8 @@ The first years as a freelancer for me were mostly Drupal development. I used to
 
 This Project was about implementing a web design for [arealgoodcause.com](https://web.archive.org/web/20131128071802/http://arealgoodcause.com/). It was one of the earliest Drupal project I worked on.
 
+Check the dedicated page for more details [here](ARGC.md)
+
 #### First personal website (mechdeveloper.com) &nbsp;&nbsp;&nbsp; _2012_
 
 <img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/first_website.png" alt="calendar_app" width="350"/>
@@ -116,6 +124,8 @@ This Project was about implementing a web design for [arealgoodcause.com](https:
 
 This was the first [personal website](https://web.archive.org/web/20130409073648/http://mechdeveloper.com/) and blog I develop for the portfolio. By that time I was a freelancer already. (I am very bad at choosing names).
 
+Check the dedicated page for more details [here](legacy_site.md)
+
 ## First years
 
 This section is about the projects I was involved in the first years of my career.
@@ -124,13 +134,21 @@ This section is about the projects I was involved in the first years of my caree
 
 `HTML 4`, `CSS 2`, `PHP 5`, `MySQL`, `AJAX`, `jQuery`, `VTiger`, `Smarty templates`, `CRP`, `Amadeus`, `Ubuntu`
 
+**Unfortunately there are no links to these projects in this document**
+
 These were a set of projects related to each other; First, there was the CRP based on VTiger that we had to maintain and extend with many features oriented for the travel industry. Second, there was the Customer Portal. Partially provided by VTiger and heavily modified.
+
+Check the dedicated page for more details [here](uniglobe.md)
 
 ### College Thesis (Legacy) &nbsp;&nbsp;&nbsp; _2010_
 
 `HTML 4`, `CSS 2`, `PHP 5`, `MySQL`, `Stored Procedures`, `(Visual) C++`
 
+**There is the source code available [here](https://github.com/marp-dev/FiscalproERP)**
+
 This project was part of the college thesis for my graduation. It was integrated by three apps. By now only the database code with the stored procedures are available. [Source Code](https://github.com/marp-dev/FiscalproERP), (beware, this code is very old).
+
+Check the dedicated page for more details [here](college_thesis.md)
 
 ## Others
 
