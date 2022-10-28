@@ -8,9 +8,9 @@ For my thesis project I made a replacement of the invoicing system of a company 
 
 The project was composed by;
 
-- The admin client made in (visual) C++
-- A customer portal made in HTML/CSS and served with PHP
-- And the backend that was a combination of MySQL & its stored procedures and PHP
+- The admin client made in `(visual) C++`
+- A customer portal made in `HTML`/`CSS` and served with `PHP`
+- And the backend that was a combination of `MySQL` & its stored procedures and `PHP`
 
 Right now the only source code available is the stored procedures. I did not know any versioning system like GIT by that time. I had the honor of having a perfect score in the thesis.
 
