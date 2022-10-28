@@ -146,7 +146,7 @@ Check the dedicated page for more details [here][details_page5]
 
 ['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350"/>'][details_page12]
 
-`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`
+`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
 
 **[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
 
