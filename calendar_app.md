@@ -1,4 +1,4 @@
-## Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
+# Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
 ![](./assets/videos/calendar-app.webm)
 
