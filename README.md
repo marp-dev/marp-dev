@@ -17,6 +17,8 @@ Here you can find about my skill tests results, previous works and the projects 
 
 **For more information about me please check my [website](https://marp.rocks/)**.
 
+
+
 ```
 
 ▄▄▄  ▄▄▄▄ ▄▄▄  ▄▄▄▄▄ ▄▄▄▄ ▄▄▄▄ ▄    ▄ ▄▄▄▄                 < Portfolio >
@@ -28,9 +30,13 @@ Here you can find about my skill tests results, previous works and the projects 
 
 **! Please keep in mind this is just a set of projects that do not represent the my whole career as I have signed a lot of NDAs. There are things I can not show and others I should ask permission for.**
 
+
+
 ## My Repos
 
 These are a collection of my repos with practices & project samples
+
+
 
 ### Vue (Group)
 
@@ -49,6 +55,8 @@ _[logo attribution link][attribution_link1]_
 
 These projects & code samples contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
 
+
+
 ### React & Redux (Group)
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
@@ -65,6 +73,8 @@ _[logo attribution link][attribution_link2]_
 **[[ Details Page ]][details_page2]**
 
 These projects & code samples contains some projects of my own and the practices that  are part of [the React Redux course of Stephen Grider on Udemy](https://www.udemy.com/course/react-redux/).
+
+
 
 ### Blender
 
@@ -83,6 +93,8 @@ _[logo attribution link][attribution_link3]_
 
 I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/)). I do not have an artist level 'per se' but I can manage to use blender to make some models.
 
+
+
 ### Godot
 
 [attribution_link4]: https://godotengine.org/
@@ -100,7 +112,11 @@ _[logo attribution link][attribution_link4]_
 
 I have experience in Game development. Regarding Godot in particular I have been using it since version 3.
 
+
+
 ## Previous Works
+
+
 
 ### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
@@ -119,6 +135,8 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 
 Check the dedicated page for more details [here][details_page5]
 
+
+
 ### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
 
 [attribution_link12]: #
@@ -133,6 +151,8 @@ Check the dedicated page for more details [here][details_page5]
 **[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
 
 This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
+
+
 
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
@@ -151,9 +171,13 @@ This Project was about implementing a new web design for [imparcialoaxaca.mx][pr
 
 Check the dedicated page for more details [here][details_page6]
 
+
+
 ### Drupal
 
 The first years as a freelancer for me were mostly Drupal development. I used to make themes, manage panels, views and blocks, managed modules and creating some of my own.
+
+
 
 #### 'a real good cause' design implementation &nbsp;&nbsp;&nbsp; _2013_
 
@@ -172,6 +196,8 @@ This Project was about implementing a web design for [arealgoodcause.com][produc
 
 Check the dedicated page for more details [here][details_page7]
 
+
+
 #### First personal website (mechdeveloper.com) &nbsp;&nbsp;&nbsp; _2012_
 
 [attribution_link8]: #
@@ -189,9 +215,13 @@ This was the first personal website and blog I develop for the portfolio. By tha
 
 Check the dedicated page for more details [here][details_page8]
 
+
+
 ## First years
 
 This section is about the projects I was involved in the first years of my career.
+
+
 
 ### Uniglobe's Customer Portal & Amadeus API &nbsp;&nbsp;&nbsp; _2011_
 
@@ -208,6 +238,8 @@ These were a set of projects related to each other; First, there was the CRP bas
 
 Check the dedicated page for more details [here][details_page9]
 
+
+
 ### College Thesis (Legacy) &nbsp;&nbsp;&nbsp; _2010_
 
 [attribution_link10]: #
@@ -223,7 +255,11 @@ This project was part of the college thesis for my graduation. It was integrated
 
 Check the dedicated page for more details [here][details_page10]
 
+
+
 ## Others
+
+
 
 ### SABRE api &nbsp;&nbsp;&nbsp; _~2013_
 
@@ -240,6 +276,8 @@ In this project I was involved I had to connect a SABRE API with an app. I was a
 
 Check the dedicated page for more details [here][details_page11]
 
+
+
 ```
 
 ▄▄▄▄ ▄  ▄ ▄ ▄    ▄    ▄▄▄▄                                 < Skills >
@@ -250,6 +288,8 @@ Check the dedicated page for more details [here][details_page11]
 ```
 
 **! I may know a lot more things that are mentioned here. Only skills with test results are being shown**
+
+
 
 [triplebyte_frontend]: https://triplebyte.com/tb/miguel-angel-rodriguez-perez-wg7j0ul/certificate
 
