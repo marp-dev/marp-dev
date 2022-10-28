@@ -251,5 +251,6 @@ Check the dedicated page for more details [here][details_page11]
 
 **! I may know a lot more things that are mentioned here. Only skills with test results are being shown**
 
-Frontend = [triplebyte: proficient](https://triplebyte.com/tb/miguel-angel-rodriguez-perez-wg7j0ul/certificate)
+[triplebyte_frontend]: https://triplebyte.com/tb/miguel-angel-rodriguez-perez-wg7j0ul/certificate
 
+Frontend = [triplebyte: proficient][triplebyte_frontend]
