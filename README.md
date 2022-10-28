@@ -111,13 +111,28 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 ['<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>'][details_page5]
 
-`HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
+`HTML 5`, `CSS 3`, `Javascript (ES6)`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
 **[[ Details Page ]][details_page5]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link5]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link5]~~
 
 This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
 
 Check the dedicated page for more details [here][details_page5]
+
+### Personal Website Redesign &nbsp;&nbsp;&nbsp; _2022_
+
+[attribution_link12]: #
+[details_page12]: ./static-site.md
+[repo_link12]: https://gitlab.com/marp-dev/static_site
+[product_link12]: https://marp.rocks/
+
+['<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>'][details_page12]
+
+`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`
+
+**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
+
+This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
 
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
