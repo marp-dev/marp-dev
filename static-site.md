@@ -9,7 +9,9 @@
 
 `HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
 
-**[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
+**You can check the website [here](product_link12)**
+
+**The [Source Code](repo_link12) is available to see**
 
 This is my third redesign and my second release of my personal website. I specially had to focus on branding 'per se', as the name of the last version was ... questionable. I simply decided to use my initials.
 
@@ -23,4 +25,4 @@ One of the particular things about this theme is the block elements (text) I use
 
 By now, I would like to keep this 'workflow' and keep improving this design. It adds uniqueness to the website.
 
-For more information you can check [//marp.rocks/](https://marp.rocks/)
+For more information you can check [//marp.rocks/](product_link12)
