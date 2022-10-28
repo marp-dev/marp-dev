@@ -34,49 +34,69 @@ These are a collection of my repos with practices & project samples
 
 ### Vue (Group)
 
-<a href="https://gitlab.com/marp_vue"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="150"/></a>
+[attribution_link1]: https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg
+[details_page1]: https://gitlab.com/marp_vue
+[repo_link1]: #
+[product_link1]: #
 
-_[logo attribution link](https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg)_
+['<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="150"/>'][details_page1]
+
+_[logo attribution link][attribution_link1]_
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Javascript (ES6)`
 
-**There is a group available [here](https://gitlab.com/marp_vue)**
+**[[ Details Page ]][details_page1]**
 
-These [projects & code samples](https://gitlab.com/marp_vue) contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
+These projects & code samples contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
 
 ### React & Redux (Group)
 
-<a href="https://gitlab.com/react-redux-marp"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="150"/></a>
+[attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
+[details_page2]: https://gitlab.com/react-redux-marp
+[repo_link2]: #
+[product_link2]: #
 
-_[logo attribution link](https://commons.wikimedia.org/wiki/File:React-icon.svg)_
+['<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="150"/>'][details_page2]
+
+_[logo attribution link][attribution_link2]_
 
 `HTML 5`, `CSS 3`, `React`, `Redux`, `Javascript (ES6)`
 
-**There is a group available [here](https://gitlab.com/react-redux-marp)**
+**[[ Details Page ]][details_page2]**
 
-These [projects & code samples](https://gitlab.com/react-redux-marp) contains some projects of my own and the practices that  are part of [the React Redux course of Stephen Grider on Udemy](https://www.udemy.com/course/react-redux/).
+These projects & code samples contains some projects of my own and the practices that  are part of [the React Redux course of Stephen Grider on Udemy](https://www.udemy.com/course/react-redux/).
 
 ### Blender
 
-<a href="https://gitlab.com/marp-dev/marp-blender-sample"><img src="https://download.blender.org/branding/blender_logo.png" alt="blender.org" width="350"/></a>
+[attribution_link3]: https://commons.wikimedia.org/wiki/File:React-icon.svg
+[details_page3]: https://gitlab.com/marp-dev/marp-blender-sample
+[repo_link3]: https://gitlab.com/marp-dev/marp-blender-sample
+[product_link3]: #
 
-_[logo attribution link](https://www.blender.org/)_
+['<img src="https://download.blender.org/branding/blender_logo.png" alt="blender.org" width="350"/>'][details_page3]
+
+_[logo attribution link][attribution_link3]_
 
 `Blender 2.7`, `Blender +2.8`
 
-**There is a repo available [here](https://gitlab.com/marp-dev/marp-blender-sample)**
+**[[ Details Page ]][details_page3]**
 
 I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/)). I do not have an artist level 'per se' but I can manage to use blender to make some models.
 
 ### Godot
 
-<a href="https://gitlab.com/marp-game-dev"><img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="godot" width="350"/></a>
+[attribution_link4]: https://godotengine.org/
+[details_page4]: https://gitlab.com/marp-game-dev
+[repo_link4]: #
+[product_link4]: #
 
-_[logo attribution link](https://godotengine.org/)_
+['<img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="godot" width="350"/>'][details_page4]
+
+_[logo attribution link][attribution_link4]_
 
 `Godot 3.0`, `Godot 3.1`
 
-**There is a group available [here](https://gitlab.com/marp-game-dev)**
+**[[ Details Page ]][details_page4]**
 
 I have experience in Game development. Regarding Godot in particular I have been using it since version 3.
 
@@ -84,27 +104,37 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 ### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
-<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>
+[attribution_link5]: #
+[details_page5]: ./calendar_app.md
+[repo_link5]: #
+[product_link5]: #
+
+['<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>'][details_page5]
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
-**unfortunately the app is not available publicly**
+**[[ Details Page ]][details_page5]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link5]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link5]~~
 
 This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
 
-Check the dedicated page for more details [here](calendar_app.md)
+Check the dedicated page for more details [here][details_page5]
 
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
-<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>
+[attribution_link6]: #
+[details_page6]: ./Imparcialoaxaca.md
+[repo_link6]: #
+[product_link6]: https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/
+
+['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>'][details_page6]
 
 `HTML 5`, `CSS 3`, `SASS`, `Bootstrap 3`, `Javascript`, `PHP 7`
 
-**You can check the (archived) website [here](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/)**
+**[[ Details Page ]][details_page6]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link6]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link6]**
 
-This Project was about implementing a new web design for [imparcialoaxaca.mx](https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/). It was done in a custom framework, bootstrap and Sass.
+This Project was about implementing a new web design for [imparcialoaxaca.mx][product_link6]. It was done in a custom framework, bootstrap and Sass.
 
-Check the dedicated page for more details [here](Imparcialoaxaca.md)
+Check the dedicated page for more details [here][details_page6]
 
 ### Drupal
 
@@ -112,27 +142,37 @@ The first years as a freelancer for me were mostly Drupal development. I used to
 
 #### 'a real good cause' design implementation &nbsp;&nbsp;&nbsp; _2013_
 
-<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/arealgoodcause.png" alt="calendar_app" width="350"/>
+[attribution_link7]: #
+[details_page7]: ./ARGC.md
+[repo_link7]: #
+[product_link7]: https://web.archive.org/web/20131128071802/http://arealgoodcause.com/
+
+['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/arealgoodcause.png" alt="calendar_app" width="350"/>'][details_page7]
 
 `HTML 5`, `CSS 3`, `Drupal 7`, `PHP 5`, `Javascript`
 
-**You can check the (archived) website [here](https://web.archive.org/web/20131128071802/http://arealgoodcause.com/)**
+**[[ Details Page ]][details_page7]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link7]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link7]**
 
-This Project was about implementing a web design for [arealgoodcause.com](https://web.archive.org/web/20131128071802/http://arealgoodcause.com/). It was one of the earliest Drupal project I worked on.
+This Project was about implementing a web design for [arealgoodcause.com][product_link7]. It was one of the earliest Drupal project I worked on.
 
-Check the dedicated page for more details [here](ARGC.md)
+Check the dedicated page for more details [here][details_page7]
 
 #### First personal website (mechdeveloper.com) &nbsp;&nbsp;&nbsp; _2012_
 
-<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/first_website.png" alt="calendar_app" width="350"/>
+[attribution_link8]: #
+[details_page8]: ./legacy_site.md
+[repo_link8]: #
+[product_link8]: https://web.archive.org/web/20130409073648/http://mechdeveloper.com/
+
+['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/first_website.png" alt="calendar_app" width="350"/>'][details_page8]
 
 `PHP 5`, `Drupal 7`, `HTML 5`, `CSS 3`, `Javascript`
 
-**You can check the (archived) website [here](https://web.archive.org/web/20130409073648/http://mechdeveloper.com/)**
+**[[ Details Page ]][details_page8]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link8]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link8]**
 
-This was the first [personal website](https://web.archive.org/web/20130409073648/http://mechdeveloper.com/) and blog I develop for the portfolio. By that time I was a freelancer already. (I am very bad at choosing names).
+This was the first personal website and blog I develop for the portfolio. By that time I was a freelancer already. (I am very bad at choosing names).
 
-Check the dedicated page for more details [here](legacy_site.md)
+Check the dedicated page for more details [here][details_page8]
 
 ## First years
 
@@ -140,35 +180,50 @@ This section is about the projects I was involved in the first years of my caree
 
 ### Uniglobe's Customer Portal & Amadeus API &nbsp;&nbsp;&nbsp; _2011_
 
+[attribution_link9]: #
+[details_page9]: ./uniglobe.md
+[repo_link9]: #
+[product_link9]: #
+
 `HTML 4`, `CSS 2`, `PHP 5`, `MySQL`, `AJAX`, `jQuery`, `VTiger`, `Smarty templates`, `CRP`, `Amadeus`, `Ubuntu`
 
-**Unfortunately there are no links to these projects in this document**
+**[[ Details Page ]][details_page9]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link9]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link9]~~
 
 These were a set of projects related to each other; First, there was the CRP based on VTiger that we had to maintain and extend with many features oriented for the travel industry. Second, there was the Customer Portal. Partially provided by VTiger and heavily modified.
 
-Check the dedicated page for more details [here](uniglobe.md)
+Check the dedicated page for more details [here][details_page9]
 
 ### College Thesis (Legacy) &nbsp;&nbsp;&nbsp; _2010_
 
+[attribution_link10]: #
+[details_page10]: ./college_thesis.md
+[repo_link10]: https://github.com/marp-dev/FiscalproERP
+[product_link10]: #
+
 `HTML 4`, `CSS 2`, `PHP 5`, `MySQL`, `Stored Procedures`, `(Visual) C++`
 
-**There is the source code available [here](https://github.com/marp-dev/FiscalproERP)**
+**[[ Details Page ]][details_page10]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link10]** &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link10]~~
 
-This project was part of the college thesis for my graduation. It was integrated by three apps. By now only the database code with the stored procedures are available. [Source Code](https://github.com/marp-dev/FiscalproERP), (beware, this code is very old).
+This project was part of the college thesis for my graduation. It was integrated by three apps. By now only the database code with the stored procedures are available. [Source Code][repo_link10], (beware, this code is very old).
 
-Check the dedicated page for more details [here](college_thesis.md)
+Check the dedicated page for more details [here][details_page10]
 
 ## Others
 
 ### SABRE api &nbsp;&nbsp;&nbsp; _~2013_
 
+[attribution_link11]: #
+[details_page11]: ./sabre.md
+[repo_link11]: #
+[product_link11]: #
+
 `HTML 5`, `CSS 3`, `Angular 1`, `MongoDB`, `mongoid`, `Ruby`, `Ruby on Rails`, `Sabre API`, `savon`, `SOAP`, `XML`
 
-**unfortunately the app is not available publicly**
+**[[ Details Page ]][details_page11]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link11]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link11]~~
 
 In this project I was involved I had to connect a SABRE API with an app. I was allowed to write the app in Ruby on Rails & MongoDB. I had to use SOAP & savon for the api consumption and Angular 1 for the UI.
 
-Check the dedicated page for more details [here](sabre.md)
+Check the dedicated page for more details [here][details_page11]
 
 ```
 
