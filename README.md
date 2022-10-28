@@ -119,7 +119,7 @@ This is a calendar app with PDF print & data migrator/mass updater features. It 
 
 Check the dedicated page for more details [here][details_page5]
 
-### Personal Website Redesign &nbsp;&nbsp;&nbsp; _2022_
+### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
 
 [attribution_link12]: #
 [details_page12]: ./static-site.md
