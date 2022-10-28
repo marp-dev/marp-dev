@@ -11,6 +11,16 @@
 
 **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
 
-This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
+This is my third redesign and my second release of my personal website. I specially had to focus on branding 'per se', as the name of the last version was ... questionable. I simply decided to use my initials.
 
-_WIP (more details are comming)_
+I also had to redesign the logo. I had several attempts of redesign it. It have been always a gear painted as a circuit. However, due to the complexity I decided to simplify it. I use a ASCII art with my initials. This would be instantly convey the message of what I do.
+
+In order to make things even more clear. I decided to make the homepage a manpage (manual page in unix systems). Along with the ASCII art logo, anyone who actually knows about computers will know what this is and what I do.
+
+Luckily by this time I knew about `Static Site Generators` and decided to do everything with `Jekyll` and the experience was excelent. The maintenance of the site is a lot less compare to the Drupal instance I had. Additionally, `Gitlab` provided me of other tools not only as CI/CD but also of redirections to migrate all the old links.
+
+One of the particular things about this theme is the block elements (text) I used for the UI. I did this to resamble the old TUI, even text are the same size (almost) everywhere. Even the art of my face are block elements with a mask in `SVG`.
+
+By now, I would like to keep this 'workflow' and keep improving this design. It adds uniqueness to the website.
+
+For more information you can check [//marp.rocks/](https://marp.rocks/)
