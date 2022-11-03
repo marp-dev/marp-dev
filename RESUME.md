@@ -63,8 +63,7 @@ Frontend = [triplebyte: proficient][triplebyte_frontend]
 
 > _Remote_
 > ### Freelance - Contractor
-> Web Developer
-> `Ago 2012` - `Present`
+> Web Developer &nbsp;&nbsp;&nbsp; `Ago 2012` - `Present`
 
 Web development of diversed projects.
 - Development of Modules for CMS
@@ -81,8 +80,7 @@ Web development of diversed projects.
 
 > _Caracas, Venezuela_
 > ### GSYS
-> Web Developer
-> `Feb 2012` - `Jun 2012`
+> Web Developer &nbsp;&nbsp;&nbsp; `Feb 2012` - `Jun 2012`
 
 Responsible for debugging errors and develop features for the customer's systems. Support in Helpdesk.
 - Time improvements in helpdesk support
@@ -92,8 +90,7 @@ Responsible for debugging errors and develop features for the customer's systems
 
 > _Caracas, Venezuela_
 > ### Uniglobe Travel Network
-> Web Developer
-> `Dic 2010` - `Dic 2011`
+> Web Developer &nbsp;&nbsp;&nbsp; `Dic 2010` - `Dic 2011`
 
 Development of travel and tourism-oriented tools.
 - Development of the Customer Portal
@@ -115,9 +112,9 @@ Development of travel and tourism-oriented tools.
 
 <br/>
 
-> ### Instituto Universitario de Gerencia y Tecnología (IUGT)
 > _Caracas, Venezuela_
-> Técnico Superior en Informática _(2010)_
+> ### Instituto Universitario de Gerencia y Tecnología (IUGT)
+> Técnico Superior en Informática  &nbsp;&nbsp;&nbsp; _(2010)_
 
 <br/>
 <br/>
