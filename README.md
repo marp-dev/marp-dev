@@ -41,7 +41,7 @@ These are a collection of my repos with practices & project samples
 ### Vue (Group)
 
 [attribution_link1]: https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg
-[details_page1]: https://gitlab.com/marp_vue
+[details_page1]: ./vue.md
 [repo_link1]: #
 [product_link1]: #
 
@@ -53,7 +53,7 @@ _[logo attribution link][attribution_link1]_
 
 **[[ Details Page ]][details_page1]**
 
-These projects & code samples contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
+These projects & code samples contains some projects of my own and the practices of some courses.
 
 
 
