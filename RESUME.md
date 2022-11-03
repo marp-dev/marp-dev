@@ -121,9 +121,9 @@ Development of travel and tourism-oriented tools.
 
 ```
 
-▄▄▄▄▄ ▄▄▄▄ ▄▄▄▄ ▄   ▄ ▄▄▄▄                                 < Skills >
+▄▄▄▄▄ ▄▄▄▄ ▄▄▄▄ ▄   ▄ ▄▄▄▄                                 < Techs >
   █   █▄▄▄ █    █▄▄▄█ █▄▄▄
-  █   █▄▄▄ █▄▄▄ █   █ ▄▄▄█                                 Skills tests results
+  █   █▄▄▄ █▄▄▄ █   █ ▄▄▄█
 
 
 ```
