@@ -60,7 +60,7 @@ These projects & code samples contains some projects of my own and the practices
 ### React & Redux (Group)
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
-[details_page2]: https://gitlab.com/react-redux-marp
+[details_page2]: ./react.md
 [repo_link2]: #
 [product_link2]: #
 
@@ -72,7 +72,7 @@ _[logo attribution link][attribution_link2]_
 
 **[[ Details Page ]][details_page2]**
 
-These projects & code samples contains some projects of my own and the practices that  are part of [the React Redux course of Stephen Grider on Udemy](https://www.udemy.com/course/react-redux/).
+These projects & code samples contains some projects of my own and the practices of some courses.
 
 
 
