@@ -1,4 +1,4 @@
-### React & Redux (Group)
+# React & Redux (Group)
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
 [details_page2]: https://gitlab.com/react-redux-marp
