@@ -39,7 +39,7 @@ _last edit - November 2022_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
 
 ```
 
-**! Only skills with test results are being shown**
+> #### **! Only skills with test results are being shown**
 
 <br/>
 
