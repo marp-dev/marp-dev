@@ -17,7 +17,7 @@
 
 _last edit - November 2022_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
 
-
+<br/>
 
 ## Miguel Angel Rodriguez Perez
 
@@ -27,7 +27,8 @@ _last edit - November 2022_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
 
 `Web Developer`, `DevOps`, `Export Programmer`, `FullStack Development`, `SQL Programming in databases`, `IT Generalist`, `front-end reestructuring`, `accurate pixel-perfect implementations`, `Lower cost Jamstack implementations`, `+10 years experience`, `+90% proyect success (upwork)`
 
-
+<br/>
+<br/>
 
 ```
 
@@ -40,13 +41,14 @@ _last edit - November 2022_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
 
 **! Only skills with test results are being shown**
 
-
+<br/>
 
 [triplebyte_frontend]: https://triplebyte.com/tb/miguel-angel-rodriguez-perez-wg7j0ul/certificate
 
 Frontend = [triplebyte: proficient][triplebyte_frontend]
 
-
+<br/>
+<br/>
 
 ```
 
@@ -57,12 +59,11 @@ Frontend = [triplebyte: proficient][triplebyte_frontend]
 
 ```
 
-
+<br/>
 
 > _Remote_
 > ### Freelance - Contractor
-> Web Developer
-> `Ago 2012` - `Present`
+> Web Developer &nbsp;&nbsp;&nbsp; `Ago 2012` - `Present`
 
 Web development of diversed projects.
 - Development of Modules for CMS
@@ -75,21 +76,21 @@ Web development of diversed projects.
 - HTML for emails and assistance in campaigns in mailchimp
 - Software development with budgets and time measures
 
+<br/>
 
 > _Caracas, Venezuela_
 > ### GSYS
-> Web Developer
-> `Feb 2012` - `Jun 2012`
+> Web Developer &nbsp;&nbsp;&nbsp; `Feb 2012` - `Jun 2012`
 
 Responsible for debugging errors and develop features for the customer's systems. Support in Helpdesk.
 - Time improvements in helpdesk support
 - Assistance in refactoring of modules
 
+<br/>
 
 > _Caracas, Venezuela_
 > ### Uniglobe Travel Network
-> Web Developer
-> `Dic 2010` - `Dic 2011`
+> Web Developer &nbsp;&nbsp;&nbsp; `Dic 2010` - `Dic 2011`
 
 Development of travel and tourism-oriented tools.
 - Development of the Customer Portal
@@ -97,7 +98,8 @@ Development of travel and tourism-oriented tools.
 - Extensions of the CRP system of the company (VTiger)
 - Improvements in the database and Queries
 
-
+<br/>
+<br/>
 
 ```
 
@@ -108,13 +110,14 @@ Development of travel and tourism-oriented tools.
 
 ```
 
+<br/>
 
-
-> ### Instituto Universitario de Gerencia y Tecnología (IUGT)
 > _Caracas, Venezuela_
-> Técnico Superior en Informática _(2010)_
+> ### Instituto Universitario de Gerencia y Tecnología (IUGT)
+> Técnico Superior en Informática  &nbsp;&nbsp;&nbsp; _(2010)_
 
-
+<br/>
+<br/>
 
 ```
 
@@ -125,6 +128,6 @@ Development of travel and tourism-oriented tools.
 
 ```
 
-
+<br/>
 
 `HTML`, `CSS`, `Javascript`, `Ruby`, `Python`, `PHP`, `Ruby On Rails`, `Vue`, `Vuex`, `React`, `Redux`, `SASS`, `Bootstrap`, `SQL`, `PostgreSQL`, `Mysql`, `Store Procedures & functions`, `REST`, `Bash`, `Linux`, `Supabase`, `CloudFlare Worker`
