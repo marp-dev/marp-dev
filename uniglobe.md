@@ -1,3 +1,19 @@
+```
+
+░█▄ ▄█  ▄▀▀▄  ▄▀▀█ ░█▀▀▄                         Miguel Angel Rodriguez Perez
+░█ ▀░█ ░█▄▄█  ▀▄▄█ ░█▄▄▀
+░█  ░█ ░█ ░█  █  █ ░█                            Software Developer
+       
+```
+
+[website_link]: https://marp.rocks/
+[git_profile]: /marp-dev
+[portfolio_link]: /marp-dev
+
+**[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
+
+
+
 # Uniglobe's Customer Portal & Amadeus API &nbsp;&nbsp;&nbsp; _2011_
 
 `HTML 4`, `CSS 2`, `PHP 5`, `MySQL`, `AJAX`, `jQuery`, `VTiger`, `Smarty templates`, `CRP`, `Amadeus`, `Ubuntu`

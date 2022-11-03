@@ -1,3 +1,19 @@
+```
+
+░█▄ ▄█  ▄▀▀▄  ▄▀▀█ ░█▀▀▄                         Miguel Angel Rodriguez Perez
+░█ ▀░█ ░█▄▄█  ▀▄▄█ ░█▄▄▀
+░█  ░█ ░█ ░█  █  █ ░█                            Software Developer
+       
+```
+
+[website_link]: https://marp.rocks/
+[git_profile]: /marp-dev
+[portfolio_link]: /marp-dev
+
+**[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
+
+
+
 # SABRE api &nbsp;&nbsp;&nbsp; _~2013_
 
 `HTML 5`, `CSS 3`, `Angular 1`, `MongoDB`, `mongoid`, `Ruby`, `Ruby on Rails`, `Sabre API`, `savon`, `SOAP`, `XML`
