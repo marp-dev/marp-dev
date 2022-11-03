@@ -9,13 +9,15 @@
        
 ```
 
+[website_link]: https://marp.rocks/
+[resume_link]: ./RESUME.md
+[portfolio_link]: #
+
+**[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ RESUME ]</ins>][resume_link]** &nbsp;&nbsp;&nbsp; **[[ PORTFOLIO ]][portfolio_link]**
+
 _last edit - November 2022_
 
-Hi, I am Miguel. This is my Git*** Profile.
-
-Here you can find about my skill tests results, previous works and the projects I am involved.
-
-**For more information about me please check my [website](https://marp.rocks/)**.
+Hi, I am Miguel. Here you can find about my previous works and the projects I am involved.
 
 
 
@@ -277,20 +279,3 @@ In this project I was involved I had to connect a SABRE API with an app. I was a
 Check the dedicated page for more details [here][details_page11]
 
 
-
-```
-
-▄▄▄▄ ▄  ▄ ▄ ▄    ▄    ▄▄▄▄                                 < Skills >
-█▄▄▄ █▄▀  █ █    █    █▄▄▄
-▄▄▄█ █ ▀▄ █ █▄▄▄ █▄▄▄ ▄▄▄█                                 Skills tests results
-
-
-```
-
-**! I may know a lot more things that are mentioned here. Only skills with test results are being shown**
-
-
-
-[triplebyte_frontend]: https://triplebyte.com/tb/miguel-angel-rodriguez-perez-wg7j0ul/certificate
-
-Frontend = [triplebyte: proficient][triplebyte_frontend]
