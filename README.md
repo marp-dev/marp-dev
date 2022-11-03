@@ -110,7 +110,7 @@ _[logo attribution link][attribution_link4]_
 
 **[[ Details Page ]][details_page4]**
 
-I have experience in Game development. Regarding Godot in particular I have been using it since version 3.
+I have experience in Game development. Regarding Godot in particular I have been using it since version 3. All these are practices for [the course of Discovering Godot by canopy games](https://www.udemy.com/course/discovering-godot/)
 
 
 
