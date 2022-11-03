@@ -41,7 +41,7 @@ These are a collection of my repos with practices & project samples
 ### Vue (Group)
 
 [attribution_link1]: https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg
-[details_page1]: https://gitlab.com/marp_vue
+[details_page1]: ./vue.md
 [repo_link1]: #
 [product_link1]: #
 
@@ -53,14 +53,14 @@ _[logo attribution link][attribution_link1]_
 
 **[[ Details Page ]][details_page1]**
 
-These projects & code samples contains some projects of my own and the practices that are part of [the Vue course of Maximilian Schwarzmüller on Udemy](https://www.udemy.com/course/vuejs-2-the-complete-guide/).
+These projects & code samples contains some projects of my own and the practices of some courses.
 
 
 
 ### React & Redux (Group)
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
-[details_page2]: https://gitlab.com/react-redux-marp
+[details_page2]: ./react.md
 [repo_link2]: #
 [product_link2]: #
 
@@ -72,7 +72,7 @@ _[logo attribution link][attribution_link2]_
 
 **[[ Details Page ]][details_page2]**
 
-These projects & code samples contains some projects of my own and the practices that  are part of [the React Redux course of Stephen Grider on Udemy](https://www.udemy.com/course/react-redux/).
+These projects & code samples contains some projects of my own and the practices of some courses.
 
 
 
@@ -110,7 +110,7 @@ _[logo attribution link][attribution_link4]_
 
 **[[ Details Page ]][details_page4]**
 
-I have experience in Game development. Regarding Godot in particular I have been using it since version 3.
+I have experience in Game development. Regarding Godot in particular I have been using it since version 3. All these are practices for [the course of Discovering Godot by canopy games](https://www.udemy.com/course/discovering-godot/)
 
 
 
