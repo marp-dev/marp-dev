@@ -7,8 +7,8 @@
 ```
 
 [website_link]: https://marp.rocks/
-[git_profile]: /marp-dev
-[portfolio_link]: /marp-dev
+[git_profile]: https://github.com/marp-dev
+[portfolio_link]: https://github.com/marp-dev
 
 **[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
 
