@@ -21,7 +21,7 @@ _last edit - November 2022_
 
 ----
 
-`Web Developer`, `DevOps`, `Export Programmer`, `FullStack Development`, `SQL Programming in databases`, `IT Generalist`, `front-end reestructuring`, `accurate pixel-perfect implementations`, `Lower cost Jamstack implementations`, `+10 years experience`, `+90% proyect success (upwork)`
+`Web Developer`, `DevOps`, `Expert Programmer`, `FullStack Development`, `SQL Programming in databases`, `IT Generalist`, `front-end reestructuring`, `accurate pixel-perfect implementations`, `Lower cost Jamstack implementations`, `+10 years experience`, `+90% proyect success (upwork)`
 
 
 
