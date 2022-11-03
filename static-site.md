@@ -1,3 +1,19 @@
+```
+
+░█▄ ▄█  ▄▀▀▄  ▄▀▀█ ░█▀▀▄                         Miguel Angel Rodriguez Perez
+░█ ▀░█ ░█▄▄█  ▀▄▄█ ░█▄▄▀
+░█  ░█ ░█ ░█  █  █ ░█                            Software Developer
+       
+```
+
+[website_link]: https://marp.rocks/
+[git_profile]: /marp-dev
+[portfolio_link]: /marp-dev
+
+**[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
+
+
+
 # Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
 
 [attribution_link12]: #

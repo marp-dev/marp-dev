@@ -1,3 +1,19 @@
+```
+
+░█▄ ▄█  ▄▀▀▄  ▄▀▀█ ░█▀▀▄                         Miguel Angel Rodriguez Perez
+░█ ▀░█ ░█▄▄█  ▀▄▄█ ░█▄▄▀
+░█  ░█ ░█ ░█  █  █ ░█                            Software Developer
+       
+```
+
+[website_link]: https://marp.rocks/
+[git_profile]: /marp-dev
+[portfolio_link]: /marp-dev
+
+**[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
+
+
+
 # First personal website (mechdeveloper.com) &nbsp;&nbsp;&nbsp; _2012_
 
 `PHP 5`, `Drupal 7`, `HTML 5`, `CSS 3`, `Javascript`

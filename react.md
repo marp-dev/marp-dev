@@ -1,4 +1,20 @@
-### React & Redux (Group)
+```
+
+░█▄ ▄█  ▄▀▀▄  ▄▀▀█ ░█▀▀▄                         Miguel Angel Rodriguez Perez
+░█ ▀░█ ░█▄▄█  ▀▄▄█ ░█▄▄▀
+░█  ░█ ░█ ░█  █  █ ░█                            Software Developer
+       
+```
+
+[website_link]: https://marp.rocks/
+[git_profile]: /marp-dev
+[portfolio_link]: /marp-dev
+
+**[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
+
+
+
+# React & Redux (Group)
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
 [details_page2]: https://gitlab.com/react-redux-marp
