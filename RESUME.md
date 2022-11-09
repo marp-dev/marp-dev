@@ -21,7 +21,14 @@ _last edit - November 2022_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
 
 ## Miguel Angel Rodriguez Perez
 
-#### Web Developer
+Languages = Spanish, English
+
+Years of Experience = ~12 years
+
+Remote Experience = ~10 years
+
+
+### Web Developer
 
 ----
 
