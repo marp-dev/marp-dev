@@ -16,7 +16,7 @@
 
 # Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
-![](./assets/videos/voltxai.webm)
+![](./assets/img/voltxai.avif)
 
 `HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`
 
