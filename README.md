@@ -104,7 +104,7 @@ I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/))
 [repo_link4]: #
 [product_link4]: #
 
-[<img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="godot" width="350" loading="lazy" >][details_page4]
+[<img src="https://godotengine.org/assets/press/logo_large_color_light.png" alt="godot" width="350" loading="lazy" >][details_page4]
 
 _[logo attribution link][attribution_link4]_
 
