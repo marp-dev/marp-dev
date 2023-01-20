@@ -120,6 +120,25 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 
 
+### voltx.ai (alpha) &nbsp;&nbsp;&nbsp; _2022_
+
+[attribution_link12]: #
+[details_page12]: ./voltxai.md
+[repo_link12]: #
+[product_link12]: https://voltx.ai/
+
+[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/voltxai.avif" alt="voltx.ai" width="350"/>][details_page5]
+
+`HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `bootstrap`, `SASS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`
+
+**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link12]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link12]~~
+
+I had the opportunity to be involved with the alpha version of [voltx.ai](https://voltx.ai/). It uses (battery) data to generate battery packs with its 3D models, PDFs with specs and many other things.
+
+Check the dedicated page for more details [here][details_page12]
+
+
+
 ### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
 [attribution_link5]: #
