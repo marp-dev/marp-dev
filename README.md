@@ -131,7 +131,7 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 `HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `bootstrap`, `SASS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`
 
-**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link12]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link12]~~
+**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link12]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
 
 I had the opportunity to be involved with the alpha version of [voltx.ai](https://voltx.ai/). It uses (battery) data to generate battery packs with its 3D models, PDFs with specs and many other things.
 
