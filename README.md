@@ -47,7 +47,7 @@ These are a collection of my repos with practices & project samples
 [repo_link1]: #
 [product_link1]: #
 
-['<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="150"/>'][details_page1]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" alt="vue" height="150"/>][details_page1]
 
 _[logo attribution link][attribution_link1]_
 
@@ -66,7 +66,7 @@ These projects & code samples contains some projects of my own and the practices
 [repo_link2]: #
 [product_link2]: #
 
-['<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="150"/>'][details_page2]
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" height="150"/>][details_page2]
 
 _[logo attribution link][attribution_link2]_
 
@@ -85,7 +85,7 @@ These projects & code samples contains some projects of my own and the practices
 [repo_link3]: https://gitlab.com/marp-dev/marp-blender-sample
 [product_link3]: #
 
-['<img src="https://download.blender.org/branding/blender_logo.png" alt="blender.org" width="350"/>'][details_page3]
+[<img src="https://download.blender.org/branding/blender_logo.png" alt="blender.org" width="350"/>][details_page3]
 
 _[logo attribution link][attribution_link3]_
 
@@ -104,7 +104,7 @@ I also know how to use blender (thanks to [gamedev.tv](https://www.gamedev.tv/))
 [repo_link4]: #
 [product_link4]: #
 
-['<img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="godot" width="350"/>'][details_page4]
+[<img src="https://godotengine.org/themes/godotengine/assets/press/logo_large_color_light.svg" alt="godot" width="350"/>][details_page4]
 
 _[logo attribution link][attribution_link4]_
 
@@ -120,6 +120,25 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 
 
+### voltx.ai (alpha) &nbsp;&nbsp;&nbsp; _2022_
+
+[attribution_link12]: #
+[details_page12]: ./voltxai.md
+[repo_link12]: #
+[product_link12]: https://voltx.ai/
+
+[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/voltxai.avif" alt="voltx.ai" width="350"/>][details_page5]
+
+`HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `bootstrap`, `SASS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`
+
+**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link12]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link12]~~
+
+I had the opportunity to be involved with the alpha version of [voltx.ai](https://voltx.ai/). It uses (battery) data to generate battery packs with its 3D models, PDFs with specs and many other things.
+
+Check the dedicated page for more details [here][details_page12]
+
+
+
 ### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
 [attribution_link5]: #
@@ -127,7 +146,7 @@ I have experience in Game development. Regarding Godot in particular I have been
 [repo_link5]: #
 [product_link5]: #
 
-['<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>'][details_page5]
+[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350"/>][details_page5]
 
 `HTML 5`, `CSS 3`, `Javascript (ES6)`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
@@ -146,7 +165,7 @@ Check the dedicated page for more details [here][details_page5]
 [repo_link12]: https://gitlab.com/marp-dev/static_site
 [product_link12]: https://marp.rocks/
 
-['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350"/>'][details_page12]
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350"/>][details_page12]
 
 `HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
 
@@ -163,7 +182,7 @@ This is the release of the redesigned of my website. This time I used a `Static 
 [repo_link6]: #
 [product_link6]: https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/
 
-['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>'][details_page6]
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350"/>][details_page6]
 
 `HTML 5`, `CSS 3`, `SASS`, `Bootstrap 3`, `Javascript`, `PHP 7`
 
@@ -188,7 +207,7 @@ The first years as a freelancer for me were mostly Drupal development. I used to
 [repo_link7]: #
 [product_link7]: https://web.archive.org/web/20131128071802/http://arealgoodcause.com/
 
-['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/arealgoodcause.png" alt="calendar_app" width="350"/>'][details_page7]
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/arealgoodcause.png" alt="calendar_app" width="350"/>][details_page7]
 
 `HTML 5`, `CSS 3`, `Drupal 7`, `PHP 5`, `Javascript`
 
@@ -207,7 +226,7 @@ Check the dedicated page for more details [here][details_page7]
 [repo_link8]: #
 [product_link8]: https://web.archive.org/web/20130409073648/http://mechdeveloper.com/
 
-['<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/first_website.png" alt="calendar_app" width="350"/>'][details_page8]
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/first_website.png" alt="calendar_app" width="350"/>][details_page8]
 
 `PHP 5`, `Drupal 7`, `HTML 5`, `CSS 3`, `Javascript`
 
