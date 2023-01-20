@@ -127,7 +127,7 @@ I have experience in Game development. Regarding Godot in particular I have been
 [repo_link12]: #
 [product_link12]: https://voltx.ai/
 
-[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/voltxai.avif" alt="voltx.ai" width="350"/>][details_page5]
+[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/voltxai.avif" alt="voltx.ai" width="350"/>][details_page12]
 
 `HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `bootstrap`, `SASS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`
 
