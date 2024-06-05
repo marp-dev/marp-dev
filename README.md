@@ -194,9 +194,9 @@ I have experience in Game development. Regarding Godot in particular I have been
 
 
 
-### Drupal
+## Drupal Era
 
-The first years as a freelancer for me were mostly Drupal development. I used to make themes, manage panels, views and blocks, managed modules and creating some of my own.
+The initial years as a freelancer for me were mostly Drupal development. I used to make themes, manage panels, views and blocks, managed modules and creating some of my own.
 
 
 
@@ -238,9 +238,9 @@ Check the dedicated page for more details [here][details_page8]
 
 
 
-## First years
+## Initial years
 
-This section is about the projects I was involved in the first years of my career.
+This section is about the projects I was involved in the initial years of my career.
 
 
 
