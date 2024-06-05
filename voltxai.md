@@ -7,14 +7,14 @@
 ```
 
 [website_link]: https://marp.rocks/
-[git_profile]: https://github.com/marp-dev
-[portfolio_link]: https://github.com/marp-dev
+[git_profile]: ./README.md
+[portfolio_link]: ./PORTFOLIO.md
 
 **[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PROFILE ]</ins>][git_profile]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
 
 
 
-# Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
+# Voltx.ai App & Website &nbsp;&nbsp;&nbsp; _2021_
 
 ![](./assets/img/voltxai.avif)
 
