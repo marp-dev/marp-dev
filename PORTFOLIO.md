@@ -15,7 +15,7 @@
 
 **[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ RESUME ]</ins>][resume_link]** &nbsp;&nbsp;&nbsp; **[[ PORTFOLIO ]][portfolio_link]**
 
-_last edit - January 2023_
+_last edit - June 2024_
 
 Hi, I am Miguel. Here you can find about my previous works and the projects I am involved.
 
