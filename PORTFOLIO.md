@@ -10,7 +10,7 @@
 ```
 
 [website_link]: https://marp.rocks/
-[resume_link]: ./RESUME.md
+[resume_link]: https://github.com/marp-dev/marp-dev/wiki/RESUME
 [portfolio_link]: #
 
 **[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ RESUME ]</ins>][resume_link]** &nbsp;&nbsp;&nbsp; **[[ PORTFOLIO ]][portfolio_link]**
@@ -41,7 +41,7 @@ Hi, I am Miguel. Here you can find about my previous works and the projects I am
 ### Crankwheel website maintainer &nbsp;&nbsp;&nbsp; _2020 (ongoing)_
 
 [attribution_link14]: #
-[details_page14]: ./crankwheel.md
+[details_page14]: https://github.com/marp-dev/marp-dev/wiki/works/crankwheel
 [repo_link14]: #
 [product_link14]: https://crankwheel.com/
 
@@ -60,7 +60,7 @@ Check the dedicated page for more details [here][details_page14]
 ### voltx.ai (alpha) &nbsp;&nbsp;&nbsp; _2022_
 
 [attribution_link13]: #
-[details_page13]: ./voltxai.md
+[details_page13]: https://github.com/marp-dev/marp-dev/wiki/works/voltxai
 [repo_link13]: #
 [product_link13]: https://voltx.ai/
 
@@ -79,7 +79,7 @@ Check the dedicated page for more details [here][details_page13]
 ### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
 [attribution_link5]: #
-[details_page5]: ./calendar_app.md
+[details_page5]: https://github.com/marp-dev/marp-dev/wiki/works/calendar_app
 [repo_link5]: #
 [product_link5]: #
 
@@ -98,7 +98,7 @@ Check the dedicated page for more details [here][details_page5]
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
 [attribution_link6]: #
-[details_page6]: ./Imparcialoaxaca.md
+[details_page6]: https://github.com/marp-dev/marp-dev/wiki/works/Imparcialoaxaca
 [repo_link6]: #
 [product_link6]: https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/
 
@@ -117,7 +117,7 @@ Check the dedicated page for more details [here][details_page6]
 ### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
 
 [attribution_link12]: #
-[details_page12]: ./static-site.md
+[details_page12]: https://github.com/marp-dev/marp-dev/wiki/works/static-site
 [repo_link12]: https://gitlab.com/marp-dev/static_site
 [product_link12]: https://marp.rocks/
 
@@ -140,7 +140,7 @@ These are a collection of my repos with practices & project samples
 ### Vue
 
 [attribution_link1]: https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg
-[details_page1]: ./vue.md
+[details_page1]: https://github.com/marp-dev/marp-dev/wiki/works/vue
 [repo_link1]: #
 [product_link1]: #
 
@@ -159,7 +159,7 @@ These projects & code samples contains some projects of my own and the practices
 ### React & Redux
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
-[details_page2]: ./react.md
+[details_page2]: https://github.com/marp-dev/marp-dev/wiki/works/react
 [repo_link2]: #
 [product_link2]: #
 
@@ -222,7 +222,7 @@ The initial years as a freelancer for me were mostly Drupal development. I used 
 #### 'a real good cause' design implementation &nbsp;&nbsp;&nbsp; _2013_
 
 [attribution_link7]: #
-[details_page7]: ./ARGC.md
+[details_page7]: https://github.com/marp-dev/marp-dev/wiki/works/ARGC
 [repo_link7]: #
 [product_link7]: https://web.archive.org/web/20131128071802/http://arealgoodcause.com/
 
@@ -241,7 +241,7 @@ Check the dedicated page for more details [here][details_page7]
 #### First personal website (mechdeveloper.com) &nbsp;&nbsp;&nbsp; _2012_
 
 [attribution_link8]: #
-[details_page8]: ./legacy_site.md
+[details_page8]: https://github.com/marp-dev/marp-dev/wiki/works/legacy_site
 [repo_link8]: #
 [product_link8]: https://web.archive.org/web/20130409073648/http://mechdeveloper.com/
 
@@ -266,7 +266,7 @@ This section is about the projects I was involved in the initial years of my car
 ### Uniglobe's Customer Portal & Amadeus API &nbsp;&nbsp;&nbsp; _2011_
 
 [attribution_link9]: #
-[details_page9]: ./uniglobe.md
+[details_page9]: https://github.com/marp-dev/marp-dev/wiki/works/uniglobe
 [repo_link9]: #
 [product_link9]: #
 
@@ -283,7 +283,7 @@ Check the dedicated page for more details [here][details_page9]
 ### College Thesis (Legacy) &nbsp;&nbsp;&nbsp; _2010_
 
 [attribution_link10]: #
-[details_page10]: ./college_thesis.md
+[details_page10]: https://github.com/marp-dev/marp-dev/wiki/works/college_thesis
 [repo_link10]: https://github.com/marp-dev/FiscalproERP
 [product_link10]: #
 
@@ -304,7 +304,7 @@ Check the dedicated page for more details [here][details_page10]
 ### SABRE api &nbsp;&nbsp;&nbsp; _~2013_
 
 [attribution_link11]: #
-[details_page11]: ./sabre.md
+[details_page11]: https://github.com/marp-dev/marp-dev/wiki/works/sabre
 [repo_link11]: #
 [product_link11]: #
 

@@ -11,11 +11,11 @@
 
 [website_link]: https://marp.rocks/
 [resume_link]: #
-[portfolio_link]: ./README.md
+[portfolio_link]: https://github.com/marp-dev/marp-dev/wiki/PORTFOLIO
 
 **[<ins>[ WEBSITE ]</ins>][website_link]** &nbsp;&nbsp;&nbsp; **[[ RESUME ]][resume_link]** &nbsp;&nbsp;&nbsp; **[<ins>[ PORTFOLIO ]</ins>][portfolio_link]**
 
-_last edit - November 2022_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
+_last edit - June 2024_ &nbsp;&nbsp;&nbsp;&nbsp; _non-printable resume_
 
 <br/>
 

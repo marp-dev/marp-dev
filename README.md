@@ -10,8 +10,8 @@
 ```
 
 [website_link]: https://marp.rocks/
-[resume_link]: ./RESUME.md
-[portfolio_link]: ./PORTFOLIO.md
+[resume_link]: https://github.com/marp-dev/marp-dev/wiki/RESUME
+[portfolio_link]: https://github.com/marp-dev/marp-dev/wiki/PORTFOLIO
 [stack_overflow]: https://stackoverflow.com/users/1310671/marp
 [upwork]: https://www.upwork.com/o/profiles/users/_~0108fc10c53d8449d4/
 
