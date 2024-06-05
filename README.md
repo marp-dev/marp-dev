@@ -34,6 +34,84 @@ Hi, I am Miguel. Here you can find about my previous works and the projects I am
 
 
 
+## Previous Works
+
+
+
+### voltx.ai (alpha) &nbsp;&nbsp;&nbsp; _2022_
+
+[attribution_link13]: #
+[details_page13]: ./voltxai.md
+[repo_link13]: #
+[product_link13]: https://voltx.ai/
+
+[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/voltxai.avif" alt="voltx.ai" width="350" loading="lazy" >][details_page13]
+
+`HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `bootstrap`, `SASS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`, `SVG`
+
+**[[ Details Page ]][details_page13]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link13]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link13]**
+
+I had the opportunity to be involved with the alpha version of [voltx.ai](https://voltx.ai/). It uses (battery) data to generate battery packs with its 3D models, PDFs with specs and many other things.
+
+Check the dedicated page for more details [here][details_page13]
+
+
+
+### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
+
+[attribution_link5]: #
+[details_page5]: ./calendar_app.md
+[repo_link5]: #
+[product_link5]: #
+
+[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350" loading="lazy" >][details_page5]
+
+`HTML 5`, `CSS 3`, `Javascript (ES6)`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
+
+**[[ Details Page ]][details_page5]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link5]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link5]~~
+
+This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
+
+Check the dedicated page for more details [here][details_page5]
+
+
+
+### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
+
+[attribution_link12]: #
+[details_page12]: ./static-site.md
+[repo_link12]: https://gitlab.com/marp-dev/static_site
+[product_link12]: https://marp.rocks/
+
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350" loading="lazy" >][details_page12]
+
+`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
+
+**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
+
+This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
+
+
+
+### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
+
+[attribution_link6]: #
+[details_page6]: ./Imparcialoaxaca.md
+[repo_link6]: #
+[product_link6]: https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/
+
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350" loading="lazy" >][details_page6]
+
+`HTML 5`, `CSS 3`, `SASS`, `Bootstrap 3`, `Javascript`, `PHP 7`
+
+**[[ Details Page ]][details_page6]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link6]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link6]**
+
+This Project was about implementing a new web design for [imparcialoaxaca.mx][product_link6]. It was done in a custom framework, bootstrap and Sass.
+
+Check the dedicated page for more details [here][details_page6]
+
+
+
 ## My Repos
 
 These are a collection of my repos with practices & project samples
@@ -113,84 +191,6 @@ _[logo attribution link][attribution_link4]_
 **[[ Details Page ]][details_page4]**
 
 I have experience in Game development. Regarding Godot in particular I have been using it since version 3. All these are practices for [the course of Discovering Godot by canopy games](https://www.udemy.com/course/discovering-godot/)
-
-
-
-## Previous Works
-
-
-
-### voltx.ai (alpha) &nbsp;&nbsp;&nbsp; _2022_
-
-[attribution_link13]: #
-[details_page13]: ./voltxai.md
-[repo_link13]: #
-[product_link13]: https://voltx.ai/
-
-[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/voltxai.avif" alt="voltx.ai" width="350" loading="lazy" >][details_page13]
-
-`HTML 5`, `CSS 3`, `Javascript`, `VanillaJS`, `bootstrap`, `SASS`, `Django`, `Python`, `agGrid`, `babylonjs`, `selenium`, `imagemagick`, `shell scripting`, `hugo`, `SVG`
-
-**[[ Details Page ]][details_page13]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link13]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link13]**
-
-I had the opportunity to be involved with the alpha version of [voltx.ai](https://voltx.ai/). It uses (battery) data to generate battery packs with its 3D models, PDFs with specs and many other things.
-
-Check the dedicated page for more details [here][details_page13]
-
-
-
-### Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
-
-[attribution_link5]: #
-[details_page5]: ./calendar_app.md
-[repo_link5]: #
-[product_link5]: #
-
-[<img src="https://raw.githubusercontent.com/marp-dev/marp-dev/master/assets/img/calendar_app.avif" alt="calendar_app" width="350" loading="lazy" >][details_page5]
-
-`HTML 5`, `CSS 3`, `Javascript (ES6)`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
-
-**[[ Details Page ]][details_page5]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link5]~~ &nbsp;&nbsp;&nbsp; ~~[[ Project Page ]][product_link5]~~
-
-This is a calendar app with PDF print & data migrator/mass updater features. It was build using Supabase as the backend and it uses PostgreSQL Store Fuctions.
-
-Check the dedicated page for more details [here][details_page5]
-
-
-
-### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
-
-[attribution_link12]: #
-[details_page12]: ./static-site.md
-[repo_link12]: https://gitlab.com/marp-dev/static_site
-[product_link12]: https://marp.rocks/
-
-[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350" loading="lazy" >][details_page12]
-
-`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
-
-**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
-
-This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
-
-
-
-### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
-
-[attribution_link6]: #
-[details_page6]: ./Imparcialoaxaca.md
-[repo_link6]: #
-[product_link6]: https://web.archive.org/web/20141214141659/http://imparcialoaxaca.mx/
-
-[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/oaxaca.png" alt="calendar_app" width="350" loading="lazy" >][details_page6]
-
-`HTML 5`, `CSS 3`, `SASS`, `Bootstrap 3`, `Javascript`, `PHP 7`
-
-**[[ Details Page ]][details_page6]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link6]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link6]**
-
-This Project was about implementing a new web design for [imparcialoaxaca.mx][product_link6]. It was done in a custom framework, bootstrap and Sass.
-
-Check the dedicated page for more details [here][details_page6]
 
 
 
