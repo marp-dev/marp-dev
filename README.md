@@ -76,23 +76,6 @@ Check the dedicated page for more details [here][details_page5]
 
 
 
-### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
-
-[attribution_link12]: #
-[details_page12]: ./static-site.md
-[repo_link12]: https://gitlab.com/marp-dev/static_site
-[product_link12]: https://marp.rocks/
-
-[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350" loading="lazy" >][details_page12]
-
-`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
-
-**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
-
-This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
-
-
-
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
 [attribution_link6]: #
@@ -109,6 +92,23 @@ This is the release of the redesigned of my website. This time I used a `Static 
 This Project was about implementing a new web design for [imparcialoaxaca.mx][product_link6]. It was done in a custom framework, bootstrap and Sass.
 
 Check the dedicated page for more details [here][details_page6]
+
+
+
+### Personal Website Redesign &nbsp;&nbsp;&nbsp; _~2020_
+
+[attribution_link12]: #
+[details_page12]: ./static-site.md
+[repo_link12]: https://gitlab.com/marp-dev/static_site
+[product_link12]: https://marp.rocks/
+
+[<img src="https://gitlab.com/marp-dev/marp-dev/-/raw/master/assets/img/marp.png" alt="marp.rocks" width="350" loading="lazy" >][details_page12]
+
+`HTML 5`, `CSS 3`, `Jekyll`, `Javascript (ES6)`, `SVG`
+
+**[[ Details Page ]][details_page12]** &nbsp;&nbsp;&nbsp; **[[ Source code ]][repo_link12]** &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link12]**
+
+This is the release of the redesigned of my website. This time I used a `Static Site Generator` (`jekyll`) for the content. I made a particular design in mind so anyone who know about computers know what I do. 
 
 
 
