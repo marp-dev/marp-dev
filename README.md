@@ -118,7 +118,7 @@ These are a collection of my repos with practices & project samples
 
 
 
-### Vue (Group)
+### Vue
 
 [attribution_link1]: https://commons.wikimedia.org/wiki/File:Vue.js_Logo_2.svg
 [details_page1]: ./vue.md
@@ -137,7 +137,7 @@ These projects & code samples contains some projects of my own and the practices
 
 
 
-### React & Redux (Group)
+### React & Redux
 
 [attribution_link2]: https://commons.wikimedia.org/wiki/File:React-icon.svg
 [details_page2]: ./react.md
