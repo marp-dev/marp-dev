@@ -51,7 +51,7 @@ Hi, I am Miguel. Here you can find about my previous works and the projects I am
 
 **[[ Details Page ]][details_page14]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link14]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link14]**
 
-I have been working as the maintiner of [crankwheel.com](product_link14). It is a website built in jekyll & TinaCMS.
+I have been working as the maintiner of [crankwheel.com][product_link14]. It is a website built in jekyll & TinaCMS.
 
 Check the dedicated page for more details [here][details_page14]
 
