@@ -222,7 +222,7 @@ The initial years as a freelancer for me were mostly Drupal development. I used 
 #### 'a real good cause' design implementation &nbsp;&nbsp;&nbsp; _2013_
 
 [attribution_link7]: #
-[details_page7]: https://github.com/marp-dev/marp-dev/wiki/ARGC
+[details_page7]: https://github.com/marp-dev/marp-dev/wiki/argc
 [repo_link7]: #
 [product_link7]: https://web.archive.org/web/20131128071802/http://arealgoodcause.com/
 
