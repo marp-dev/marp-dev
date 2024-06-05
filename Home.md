@@ -11,7 +11,7 @@
 
 [website_link]: https://marp.rocks/
 [resume_link]: ./RESUME.md
-[portfolio_link]: ./PORTFOLIO.md
+[portfolio_link]: ./PORTFOLIO
 [stack_overflow]: https://stackoverflow.com/users/1310671/marp
 [upwork]: https://www.upwork.com/o/profiles/users/_~0108fc10c53d8449d4/
 
