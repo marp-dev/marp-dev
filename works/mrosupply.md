@@ -16,9 +16,9 @@
 
 # MROSupply front-end &nbsp;&nbsp;&nbsp; _2014_
 
-['<img src="./assets/img/mrosupply1.png" alt="mro1" width="350"/>'](https://web.archive.org/web/20140911094940/https://www.mrosupply.com/product/26766-Baldor_Electric_Motors-Motors_AC_Motors_Pump)
+[<img src="./assets/img/mrosupply1.png" alt="mro1" width="350"/>](https://web.archive.org/web/20140911094940/https://www.mrosupply.com/product/26766-Baldor_Electric_Motors-Motors_AC_Motors_Pump)
 
-['<img src="./assets/img/mrosupply2.png" alt="mro2" width="350"/>'](https://web.archive.org/web/20210118191050/https://www.mrosupply.com/electrical/circuit-protection-and-distribution/power-meters-power-supplies-solar-transformers/switching-power-supplies/1011852_scp30s5-dn_solahd/)
+[<img src="./assets/img/mrosupply2.png" alt="mro2" width="350"/>](https://web.archive.org/web/20210118191050/https://www.mrosupply.com/electrical/circuit-protection-and-distribution/power-meters-power-supplies-solar-transformers/switching-power-supplies/1011852_scp30s5-dn_solahd/)
 
 `HTML 5`, `CSS 3`, `Javascript`, `jQuery`, `Django`, `HTML for emails`, `mailchimp`
 
