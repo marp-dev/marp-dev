@@ -16,7 +16,7 @@
 
 # Care Community Calendars &nbsp;&nbsp;&nbsp; _2021_
 
-![](./assets/img/calendar-app.avif)
+![](./assets/img/calendar_app.avif)
 
 `HTML 5`, `CSS 3`, `Vue`, `Vuex`, `Supabase`, `PostgresSQL`, `Jamstack`
 
