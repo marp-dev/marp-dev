@@ -95,6 +95,25 @@ Check the dedicated page for more details [here][details_page5]
 
 
 
+### MROSupply front-end &nbsp;&nbsp;&nbsp; _2014_
+
+[attribution_link15]: #
+[details_page15]: https://github.com/marp-dev/marp-dev/wiki/mrosupply
+[repo_link15]: #
+[product_link15]: https://web.archive.org/web/20210118191050/https://www.mrosupply.com/electrical/circuit-protection-and-distribution/power-meters-power-supplies-solar-transformers/switching-power-supplies/1011852_scp30s5-dn_solahd/
+
+['<img src="./assets/img/mrosupply1.png" alt="mro1" height="150"/>'][product_link15]
+
+`HTML 5`, `CSS 3`, `Javascript`, `jQuery`, `Django`, `HTML for emails`, `mailchimp`
+
+**[[ Details Page ]][details_page15]** &nbsp;&nbsp;&nbsp; ~~[[ Source code ]][repo_link15]~~ &nbsp;&nbsp;&nbsp; **[[ Project Page ]][product_link15]**
+
+I was involved in many of the front-end development in MROSupply.com; from `HTML`, `Javascript` & `CSS` to `HTML for email` and assisting in campaings in `mailchimp`.
+
+Check the dedicated page for more details [here][details_page15]
+
+
+
 ### Imparcialoaxaca.mx design implementation &nbsp;&nbsp;&nbsp; _2014_
 
 [attribution_link6]: #
