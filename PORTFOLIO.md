@@ -102,7 +102,7 @@ Check the dedicated page for more details [here][details_page5]
 [repo_link15]: #
 [product_link15]: https://web.archive.org/web/20210118191050/https://www.mrosupply.com/electrical/circuit-protection-and-distribution/power-meters-power-supplies-solar-transformers/switching-power-supplies/1011852_scp30s5-dn_solahd/
 
-['<img src="./assets/img/mrosupply2.png" alt="mro2" height="150"/>'][details_page15]
+[<img src="./assets/img/mrosupply2.png" alt="mro2" width="350"/>][details_page15]
 
 `HTML 5`, `CSS 3`, `Javascript`, `jQuery`, `Django`, `HTML for emails`, `mailchimp`
 
